@@ -5,6 +5,10 @@
     grid-template-columns: 1fr; 
     grid-gap:1.2rem;
 }
+
+/* 
+    I am Anaand
+*/
 #main-nav ul,
 #main-nav .logo{
     justify-self: center;
